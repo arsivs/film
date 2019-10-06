@@ -58,5 +58,6 @@
 .icon-tags:before { content: '\e800'; } /* '' */
 .icon-down-open:before { content: '\e801'; } /* '' */
 .icon-up-open:before { content: '\e802'; } /* '' */
+.icon-tag:before { content: '\e803'; } /* '' */
 .icon-chat:before { content: '\f0e6'; } /* '' */
 .icon-calendar:before { content: '\f133'; } /* '' */
