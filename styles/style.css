@@ -59,8 +59,10 @@
 .icon-down-open:before { content: '\e801'; } /* '' */
 .icon-up-open:before { content: '\e802'; } /* '' */
 .icon-tag:before { content: '\e803'; } /* '' */
-.icon-clock:before { content: '\e804'; } /* '' */
-.icon-search:before { content: '\e805'; } /* '' */
-.icon-comment-empty:before { content: '\f0e5'; } /* '' */
-.icon-chat-empty:before { content: '\f0e6'; } /* '' */
-.icon-calendar-empty:before { content: '\f133'; } /* '' */
+.icon-right-open:before { content: '\e804'; } /* '' */
+.icon-clock:before { content: '\e805'; } /* '' */
+.icon-left-open:before { content: '\e806'; } /* '' */
+.icon-right-open-1:before { content: '\e807'; } /* '' */
+.icon-search:before { content: '\e808'; } /* '' */
+.icon-chat:before { content: '\f0e6'; } /* '' */
+.icon-calendar:before { content: '\f133'; } /* '' */
